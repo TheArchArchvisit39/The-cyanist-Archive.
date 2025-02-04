@@ -41,3 +41,8 @@ Standard Measurement of Regular Miku Association/Creation. [SMRM]
 
 Main dialect (JP)-->Japanese speaking only. (EN)-->English speaking only.
                                   additional-->(JPEN)Japanese + English speaking. (ENJP)--> English + Japanese.
+
+
+                Constant watch and updating.
+
+individuals of this group, if are keen on contributing, are to watch previous artists in the [list of all credits to artist.] when you have uploded a folder containing all the art of a artist, you will create a pull request to contribute and edit the list of credits, so that the folder may be added to the collection of other folders. From then on, you can either keep eyes on that singular artist or move on to the next. Anyone who takes it upon themselves to keep checking up on previously completed and credited artist for any new art will be given a title of [overwatching archivist] if you commit to updating a credited artist more then 4 times.
